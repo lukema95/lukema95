@@ -7,7 +7,7 @@
   - Move (Sui & Aptos)
   - Rust (Solana)
 - 🛠 **Tech Stack**:
-  - Primary Languages: TypeScript, Golang
+  - Primary Languages: TypeScript, Golang, Rust
   - Web Development: Next.js, Nest.js
   - Infrastructure: Docker, AWS, CI/CD
 - 📝 **Writing**: 
