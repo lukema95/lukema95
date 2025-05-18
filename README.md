@@ -30,6 +30,6 @@
 - [XBit Wallet](https://github.com/lukema95/xbit-wallet) Email-supported ERC4337 wallet
 
 ### Personal Projects 💻
-- [Flip NFT](https://flipnft.xyz) NFT liquidity solution
-- [Move AS](https://www.moveas.xyz) Attestation service for Move ecosystem
-- Gitrant A Sponsorship Platform for the Open Source World
+- [Flip NFT](https://flipnft.xyz) - NFT liquidity solution
+- [Move AS](https://www.moveas.xyz) - Attestation service for Move ecosystem
+- Gitrant - A Sponsorship Platform for the Open Source World
