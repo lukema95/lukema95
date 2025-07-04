@@ -12,7 +12,7 @@
   - Infrastructure: Docker, AWS, CI/CD
 - 📝 **Writing**: 
   - Notion: [Blockchain Knowledge Base](https://www.notion.so/y1dao/YiDAO-1a2e85563ada4de0ba857562aa8b3229)
-  - Articles: [Mirror](https://mirror.xyz/lukema95.eth)
+  - Articles: [Luke's Mirror](https://mirror.xyz/lukema95.eth)
 
 ### Current Status 🚀
 - 🔭 Independent blockchain consultant, focusing on DeFi and cross-chain solutions
