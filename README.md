@@ -11,7 +11,7 @@
   - Web Development: Next.js, Nest.js
   - Infrastructure: Docker, AWS, CI/CD
 - 📝 **Writing**: 
-  - Notion: [Blockchain Knowledge Base](https://www.notion.so/y1dao/YiDAO-1a2e85563ada4de0ba857562aa8b3229)
+  - Notion: [HashIdea blockchain Knowledge Base](https://hashidea.notion.site/HashIdea-Research-2261cc07501180c39309fb437f41614c)
   - Articles: [Luke's Mirror](https://mirror.xyz/lukema95.eth)
 
 ### Current Status 🚀
