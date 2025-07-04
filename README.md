@@ -26,8 +26,7 @@
 
 ### Open Source Projects
 - [Blockchain Learning](https://github.com/lukema95/blockchain-learning) Blockchain learning notes
-- [Blockchain Ideas](https://github.com/lukema95/blockchain-ideas) Blockchain ideas and projects
-- [XBit Wallet](https://github.com/lukema95/xbit-wallet) Email-supported ERC4337 wallet
+- [Boring Ideas](https://github.com/lukema95/boring-ideas) Some boring ideas and tools
 
 ### Personal Projects 💻
 - [Flip NFT](https://flipnft.xyz) - NFT liquidity solution
