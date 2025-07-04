@@ -9,7 +9,7 @@
 - 🛠 **Tech Stack**:
   - Primary Languages: TypeScript, Golang, Rust
   - Web Development: Next.js, Nest.js
-  - Infrastructure: Docker, AWS, CI/CD
+  - Infrastructure: Docker, AWS, Vercel, Supabase, CI/CD
 - 📝 **Writing**: 
   - Notion: [HashIdea blockchain Knowledge Base](https://hashidea.notion.site/HashIdea-Research-2261cc07501180c39309fb437f41614c)
   - Articles: [Luke's Mirror](https://mirror.xyz/lukema95.eth)
