@@ -27,8 +27,3 @@
 ### Open Source Projects
 - [Blockchain Learning](https://github.com/lukema95/blockchain-learning) Blockchain learning notes
 - [Boring Ideas](https://github.com/lukema95/boring-ideas) Some boring ideas and tools
-
-### Personal Projects 💻
-- [Flip NFT](https://flipnft.xyz) - NFT liquidity solution
-- [Move AS](https://www.moveas.xyz) - Attestation service for Move ecosystem
-- [Gitrant](https://www.gitrant.xyz) - A Sponsorship Platform for the Open Source World
