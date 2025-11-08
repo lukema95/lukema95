@@ -1,4 +1,4 @@
-## Blockchain Engineer & Web3 Builder 👋
+## Web3 & AI Builder 👋
 
 ### Technical Skills 💻
 - 🔗 **Blockchain Development**: Proficient in blockchain architecture and application development, with a focus on Cosmos SDK ecosystem
