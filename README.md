@@ -27,3 +27,6 @@
 ### Open Source Projects
 - [Blockchain Learning](https://github.com/lukema95/blockchain-learning) Blockchain learning notes
 - [Boring Ideas](https://github.com/lukema95/boring-ideas) Some boring ideas and tools
+
+### Organizations
+- [BoringIdea](https://github.com/BoringIdea) An organization dedicated to building innovative decentralized applications and tools.
