@@ -12,7 +12,6 @@
   - Infrastructure: Docker, AWS, Vercel, Supabase, CI/CD
 - 📝 **Writing**: 
   - Notion: [BoringIdea blockchain Knowledge Base](https://boringidea.notion.site/BoringIdea-Research-2261cc07501180c39309fb437f41614c)
-  - Articles: [Luke's Mirror](https://mirror.xyz/lukema95.eth)
 
 ### Current Status 🚀
 - 🔭 Independent blockchain consultant, focusing on DeFi and cross-chain solutions
